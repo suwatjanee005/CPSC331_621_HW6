@@ -30,7 +30,9 @@ Email : nattapat.kummoon@gmail.com
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_3.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_4.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_5.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
