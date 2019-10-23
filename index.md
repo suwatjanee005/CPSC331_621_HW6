@@ -25,6 +25,12 @@ Email : nattapat.kummoon@gmail.com
 ความสามารถพิเศษทางด้านดนตรี : กีต้าร์ , กีต้าร์เบส , ทรัมเป็ต
 
 ### 36 pyramid
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_1.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_2.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_3.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_4.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_5.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 
 [pyramid01](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_1.php)   [pyramid02](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_2.php)   [pyramid03](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_3.php)   [pyramid04](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_4.php)   [pyramid05](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_5.php)   <br /> 
 [pyramid06](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php)   
