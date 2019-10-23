@@ -43,6 +43,31 @@ Email : nattapat.kummoon@gmail.com
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 <a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
 
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_1.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_2.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_3.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_4.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_5.php" class="button">Link Button</a>
+
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+<a href="https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php" class="button">Link Button</a>
+
 [pyramid01](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_1.php)   [pyramid02](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_2.php)   [pyramid03](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_3.php)   [pyramid04](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_4.php)   [pyramid05](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_5.php)   <br /> 
 [pyramid06](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_6.php)   
 [pyramid07](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/non_7.php)  
