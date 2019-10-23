@@ -5,15 +5,10 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
   </br></br>
-  <table aline="center">
-  <tr>
-    <td>
+  
     <div class="w3-container">
-  <img src="n01.jpg" class="w3-round-xxlarge" alt="Norway" style="width:50%">
+  <img src="n01.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
 </div>
-   </td>
-  </tr>
-  </table>
 
 </body>
 </html>
