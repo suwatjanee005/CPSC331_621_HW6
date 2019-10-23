@@ -31,7 +31,7 @@ Email : nattapat.kummoon@gmail.com
 ### Pree web host [000webhost](https://ducatith.000webhostapp.com/) // [infinity](non005.epizy.com/index.php)
 
 
-### [Nortwind](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/db_northwind.sql)
+### [Nortwind .io](https://github.com/nattapat006/CPSC331_621_HW6/blob/master/db_northwind.sql) 
 
 
 ### [งานมอบหมายที่ 4](https://github.com/nattapat006/nortwind) ซึ่งประกอบด้วย 8 ตาราง Nortwind
