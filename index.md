@@ -1,5 +1,15 @@
 ## Welcome to Profile Pages
 
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container">
+  <img src="n01.jpg" class="w3-round-xxlarge" alt="Norway" style="width:30%">
+</div>
+</body>
+</html>
+
 ![Image](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/n01.jpg)
 
 ชื่อ : นาย ณัฐภัทร คำมูล 
